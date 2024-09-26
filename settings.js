@@ -45,7 +45,7 @@ global.location = "Pakistan, Lahore, Sabzazar" //ur location
 
 //new
 global.botname = 'XLICON-V4-MD' //ur bot name
-global.ownernumber = ['923184070915'] //ur owner number, dont add more than one
+global.ownernumber = ['233538932297'] //ur owner number, dont add more than one
 global.ownername = '𝙎𝙖𝙡𝙢𝙖𝙣 𝘼𝙝𝙢𝙖𝙙' //ur owner name
 global.websitex = "https://youtube.com/@s4salmanyt"
 global.wagc = "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
@@ -55,15 +55,15 @@ global.botscript = 'https://github.com/salmanytofficial/XLICON-V4-MD' //script l
 global.packname = "𝘼𝙃𝙃𝙈𝙄 𝙆𝙐𝙉"
 global.author = "MΛDΣ BY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
 global.creator = "923184070915@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["923184070915"] // Premium User
+global.xprefix = ','
+global.premium = ["233538932297"] // Premium User
 
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '212' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
-global.antidelete = false //set anti delete 
+global.antidelete = true //set anti delete 
 
 
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
